@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - skydatas_sme@localhost" uuid="1e662028-e851-40f5-8c28-6521a94c1e7f">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>skydatas_sme.*</schema-pattern>
+      <default-schemas>skydatas_sme.*</default-schemas>
+    </data-source>
+  </component>
+</project>
