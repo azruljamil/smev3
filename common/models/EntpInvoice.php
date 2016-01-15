@@ -21,6 +21,9 @@ class EntpInvoice extends \yii\db\ActiveRecord
     public $code;
     public $total;
     public $productSelect;
+    public $diskaun;
+    public $shipping;
+    public $gst;
 
     /**
      * @inheritdoc
@@ -36,9 +39,9 @@ class EntpInvoice extends \yii\db\ActiveRecord
     public function rules()
     {
         return [
-            [['entrepreneur_user_id', 'invoice_id'], 'required'],
+            //[['entrepreneur_user_id', 'invoice_id'], 'required'],
             [['entrepreneur_user_id', 'invoice_id'], 'integer'],
-            [['item', 'price', 'qty', 'total', 'code','productSelect'], 'safe']
+            [['item', 'price', 'qty', 'total', 'code','productSelect','diskaun','shipping','gst'], 'safe']
         ];
     }
 

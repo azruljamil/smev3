@@ -2,96 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7200875-a67b-49e1-b003-d2fb34a13b52" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\sme" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\_output\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\_output\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\acceptance.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\acceptance\LoginCept.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\acceptance\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\functional.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\functional\LoginCept.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\functional\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\unit\DbTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\unit\TestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\unit\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\backend\unit\fixtures\data\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\bin\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\bin\yii" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\bin\yii.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\_output\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\_pages\LoginPage.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\_support\FixtureHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\fixtures\UserFixture.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\fixtures\data\init_login.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\templates\fixtures\user.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\unit\DbTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\unit\TestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\unit\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\unit\fixtures\data\models\user.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\common\unit\models\LoginFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\acceptance.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\backend\acceptance.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\backend\config.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\backend\functional.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\backend\unit.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\common\unit.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\console\unit.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\frontend\acceptance.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\frontend\config.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\frontend\functional.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\frontend\unit.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\functional.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\config\unit.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\console\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\console\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\console\_output\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\console\codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\console\unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\console\unit\DbTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\console\unit\TestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\console\unit\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\console\unit\fixtures\data\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\_output\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\_pages\AboutPage.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\_pages\ContactPage.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\_pages\SignupPage.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\acceptance.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\acceptance\AboutCept.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\acceptance\ContactCept.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\acceptance\HomeCept.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\acceptance\LoginCept.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\acceptance\SignupCest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\acceptance\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\functional.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\functional\AboutCept.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\functional\ContactCept.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\functional\HomeCept.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\functional\LoginCept.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\functional\SignupCest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\functional\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\unit\DbTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\unit\TestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\unit\_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\unit\fixtures\data\models\user.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\unit\models\ContactFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\unit\models\PasswordResetRequestFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\unit\models\ResetPasswordFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\sme_v2\tests\codeception\frontend\unit\models\SignupFormTest.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/models/EntpInvoice.php" afterPath="$PROJECT_DIR$/common/models/EntpInvoice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php" afterPath="$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/entpinvoice/charges.php" afterPath="$PROJECT_DIR$/frontend/views/entpinvoice/charges.php" />
     </list>
     <ignored path="sme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -133,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EntpinvoiceController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EntpinvoiceController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59540635">
-              <caret line="252" column="26" selection-start-line="252" selection-start-column="26" selection-end-line="252" selection-end-column="26" />
+            <state vertical-scroll-proportion="-23.0">
+              <caret line="333" column="18" selection-start-line="333" selection-start-column="18" selection-end-line="333" selection-end-column="18" />
               <folding>
                 <element signature="e#41#49#0#PHP" expanded="true" />
               </folding>
@@ -145,69 +58,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/view.php">
+      <file leaf-file-name="InvoiceItem.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/models/InvoiceItem.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.5">
-              <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
-              <folding>
-                <element signature="e#7#28#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_sample.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/_sample.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5384617">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state vertical-scroll-proportion="-0.65384614">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="charges.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="InvoiceCharges.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/models/InvoiceCharges.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.3076925">
+              <caret line="34" column="22" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2692308">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="charges.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/charges.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5384617">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#101#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Invoice.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/models/Invoice.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding>
-                <element signature="e#33#41#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_form.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/_form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="52" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="52" />
-              <folding>
-                <element signature="e#7#28#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="viewinvoice.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/viewinvoice.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="40" column="30" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.43333334">
+              <caret line="56" column="142" selection-start-line="56" selection-start-column="142" selection-end-line="56" selection-end-column="142" />
               <folding>
                 <element signature="e#6#101#0#PHP" expanded="true" />
                 <element signature="e#102#123#0#PHP" expanded="true" />
@@ -219,8 +104,8 @@
       <file leaf-file-name="EntpInvoice.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/models/EntpInvoice.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.769231">
-              <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+            <state vertical-scroll-proportion="-17.76923">
+              <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -281,11 +166,11 @@
         <option value="$PROJECT_DIR$/frontend/views/entpinvoice/viewinvoice.php" />
         <option value="$PROJECT_DIR$/frontend/views/entpinvoice/viewreceipt.php" />
         <option value="$PROJECT_DIR$/common/models/Invoice.php" />
-        <option value="$PROJECT_DIR$/frontend/views/entpinvoice/charges.php" />
-        <option value="$PROJECT_DIR$/common/models/EntpInvoice.php" />
         <option value="$PROJECT_DIR$/frontend/views/entpinvoice/view.php" />
-        <option value="$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php" />
         <option value="$PROJECT_DIR$/frontend/views/entpinvoice/_sample.php" />
+        <option value="$PROJECT_DIR$/common/models/EntpInvoice.php" />
+        <option value="$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php" />
+        <option value="$PROJECT_DIR$/frontend/views/entpinvoice/charges.php" />
       </list>
     </option>
   </component>
@@ -335,6 +220,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -349,7 +235,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sme_v2" />
+              <option name="myItemId" value="smev3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,21 +245,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sme_v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sme_v2" />
+              <option name="myItemId" value="smev3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -387,7 +259,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sme_v2" />
+              <option name="myItemId" value="smev3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -395,14 +267,85 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smev3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="invoicecharges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smev3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smev3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smev3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -525,26 +468,26 @@
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1401919" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13859275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3300866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24946696" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39718616" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39718616" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -564,104 +507,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>236</line>
-          <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>240</line>
-          <option name="timeStamp" value="119" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>241</line>
-          <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>242</line>
-          <option name="timeStamp" value="121" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>243</line>
-          <option name="timeStamp" value="122" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>244</line>
-          <option name="timeStamp" value="123" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>245</line>
-          <option name="timeStamp" value="124" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>246</line>
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>248</line>
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>249</line>
-          <option name="timeStamp" value="127" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>250</line>
-          <option name="timeStamp" value="128" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>251</line>
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>254</line>
-          <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>255</line>
-          <option name="timeStamp" value="132" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php</url>
-          <line>256</line>
-          <option name="timeStamp" value="133" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="134" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common/models/EntpSales.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7390805">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/EntpProduct.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.230769">
-          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/models/EntpProductQuery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -674,9 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-23.0">
           <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="46" />
-          <folding>
-            <element signature="e#7#28#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -684,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.97126436">
           <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5862069">
           <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.846154">
           <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.692307">
           <caret line="35" column="44" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.615385">
           <caret line="91" column="9" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8206897">
           <caret line="75" column="42" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46896553">
           <caret line="62" column="35" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -740,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="22.76923">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,9 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4055666">
           <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding>
-            <element signature="e#7#28#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -766,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.6153846">
           <caret line="96" column="69" selection-start-line="96" selection-start-column="53" selection-end-line="96" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -774,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.653847">
           <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.29310346">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31264368">
           <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-43.615383">
           <caret line="98" column="73" selection-start-line="98" selection-start-column="73" selection-end-line="98" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,7 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7229885">
           <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,7 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37126437">
           <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.66091955">
           <caret line="85" column="51" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6057471">
           <caret line="32" column="75" selection-start-line="16" selection-start-column="4" selection-end-line="32" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.56666666">
           <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.1724138">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,7 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.0712644">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -878,9 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.5793104">
           <caret line="132" column="34" selection-start-line="132" selection-start-column="34" selection-end-line="132" selection-end-column="34" />
-          <folding>
-            <element signature="e#40#48#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -888,9 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.68390805">
           <caret line="92" column="46" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="46" />
-          <folding>
-            <element signature="e#40#48#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -898,7 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.653847">
           <caret line="62" column="22" selection-start-line="57" selection-start-column="20" selection-end-line="62" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -906,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.62528735">
           <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -914,9 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.576923">
           <caret line="7" column="85" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="85" />
-          <folding>
-            <element signature="e#6#101#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -928,19 +740,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/InvoiceItem.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.307693">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/controllers/MentorController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.461538">
           <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -948,7 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-23.0">
           <caret line="221" column="45" selection-start-line="221" selection-start-column="45" selection-end-line="221" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -956,7 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.461538">
           <caret line="50" column="87" selection-start-line="50" selection-start-column="87" selection-end-line="50" selection-end-column="87" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -964,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -972,18 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-          <folding>
-            <element signature="e#6#101#0#PHP" expanded="false" />
-            <element signature="e#102#123#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/InvoiceCharges.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1012,7 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.5384617">
           <caret line="15" column="93" selection-start-line="15" selection-start-column="93" selection-end-line="15" selection-end-column="93" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1020,13 +807,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/models/Invoice.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
+        <state vertical-scroll-proportion="0.0">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="e#33#41#0#PHP" expanded="true" />
@@ -1034,48 +820,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/EntpInvoice.php">
+    <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/_sample.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.769231">
-          <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/view.php">
+    <entry file="file://$PROJECT_DIR$/frontend/controllers/InvoicechargesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.5">
-          <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+        <state vertical-scroll-proportion="-15.038462">
+          <caret line="70" column="9" selection-start-line="64" selection-start-column="8" selection-end-line="70" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/invoicecharges/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5471264">
+          <caret line="28" column="6" selection-start-line="2" selection-start-column="0" selection-end-line="28" selection-end-column="6" />
           <folding>
             <element signature="e#7#28#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/_sample.php">
+    <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/charges.php">
+    <entry file="file://$PROJECT_DIR$/common/models/InvoiceItem.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#101#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/InvoiceCharges.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3076925">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/EntpInvoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.76923">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/controllers/EntpinvoiceController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59540635">
-          <caret line="252" column="26" selection-start-line="252" selection-start-column="26" selection-end-line="252" selection-end-column="26" />
+        <state vertical-scroll-proportion="-23.0">
+          <caret line="333" column="18" selection-start-line="333" selection-start-column="18" selection-end-line="333" selection-end-column="18" />
           <folding>
             <element signature="e#41#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/entpinvoice/charges.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43333334">
+          <caret line="56" column="142" selection-start-line="56" selection-start-column="142" selection-end-line="56" selection-end-column="142" />
+          <folding>
+            <element signature="e#6#101#0#PHP" expanded="true" />
+            <element signature="e#102#123#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

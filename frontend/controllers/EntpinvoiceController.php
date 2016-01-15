@@ -9,6 +9,7 @@ use common\models\EntpInvoice;
 use common\models\EntpInvoiceSearch;
 use common\models\Invoice;
 use common\models\InvoiceItem;
+use common\models\InvoiceCharges;
 use common\models\EntpInvoiceItem;
 use common\models\Product;
 use common\models\Customer;
@@ -197,6 +198,7 @@ class EntpinvoiceController extends Controller
         ]);
     }
 
+
     /**
      * Finds the EntpInvoice model based on its primary key value.
      * If the model is not found, a 404 HTTP exception will be thrown.
@@ -315,16 +317,27 @@ class EntpinvoiceController extends Controller
 
     public function actionAddcharges($entrepreneur_user_id, $invoice_id)
     {
-        $model = $this->findModel($entrepreneur_user_id, $invoice_id);
-        $model2 = $this->findProfile($entrepreneur_user_id);
-        $query = $model->invoice->getInvoiceItems();
+        $model = new InvoiceCharges();
 
-        $dataProvider = new ActiveDataProvider(['query'=>$query]);
-        return $this->render('charges', [
-            'model' => $model,
-            'dataProvider' =>$dataProvider,
-            'model2' =>$model2,
+        if ($model->load(Yii::$app->request->post()) && $model->save())
+        {
+            return $this->redirect(['view', 'id' => $model->invoice_id]);
+        }
+        else
+        {
+            $model = $this->findModel($entrepreneur_user_id, $invoice_id);
+            //$model2 = $this->findProfile($entrepreneur_user_id);
+            //$query = $model->getInvoice();
+            //$dataProvider = new ActiveDataProvider(['query'=>$query]);
+            return $this->render('charges', [
+                'model' => $model,
+                //'dataProvider' =>$dataProvider,
+                //'model2' =>$model2,
 
-        ]);
+            ]);
+        }
+
+
     }
+
 }
